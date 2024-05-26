@@ -1,0 +1,32 @@
+{
+  "name": "batchui",
+  "version": "1.0.0",
+  "description": "UI Library for React Perfectionists",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatchNepal/batchui.git"
+  },
+  "keywords": [
+    "React",
+    "Nextjs",
+    "batchnepal",
+    "batchui",
+    "mui",
+    "antd",
+    "shadcn",
+    "ui",
+    "library",
+    "ui",
+    "zoom"
+  ],
+  "author": "BatchNepal Consultancy <support@batchnepal.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatchNepal/batchui/issues"
+  },
+  "homepage": "https://github.com/BatchNepal/batchui#readme"
+}
