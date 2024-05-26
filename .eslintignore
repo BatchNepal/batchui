@@ -1,0 +1,10 @@
+lib
+esm
+cjs
+dist
+public
+.cache
+*.d.ts
+*.js
+*.cjs
+*.mjs
